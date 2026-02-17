@@ -24,6 +24,7 @@ jobs:
      - name: Build with Maven
        run: mvn -B package --file pom.xml
 ```
+[![Build and test of Java Project](https://github.com/AlejandroRicoGar/pipeline-ci-githubactions-java/actions/workflows/main.yml/badge.svg)](https://github.com/AlejandroRicoGar/pipeline-ci-githubactions-java/actions/workflows/main.yml)
 
 ## Recursos
 https://www.adictosaltrabajo.com/2020/10/28/introduccion-a-github-actions-sintaxis-basica/
